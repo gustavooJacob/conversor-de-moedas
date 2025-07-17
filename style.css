@@ -1,0 +1,12 @@
+:root {
+  --bg-color:       #121212;   /* Fundo principal do body */
+  --text-color:     #ffffff;   /* Texto geral */
+  --display-bg:     #000000;   /* Fundo da tela da calculadora */
+  --display-text:   #00ff00;   /* Texto da tela (verde neon) */
+  --button-bg:      #333333;   /* Botão padrão */
+  --button-hover:   #444444;   /* Hover do botão */
+  --operator-bg:    #ff9800;   /* Botões de operadores (laranja) */
+  --equal-bg:       #4caf50;   /* Botão "=" (verde) */
+  --clear-bg:       #e53935;   /* Botão "C" (vermelho) */
+  --history-bg:     #1e1e1e;   /* Fundo da área de histórico */
+}
