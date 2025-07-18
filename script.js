@@ -7,7 +7,7 @@ let loading = document.querySelector(".loading");
 let result = document.querySelector(".result");
 let error = document.querySelector(".error");
 
-let API_URL = "https://api.exchangerate-api.com/v4/latet/";
+let API_URL = "https://api.exchangerate-api.com/v4/latest/";
 
 async function convertMoney() {
     loading.style.display = "block";
